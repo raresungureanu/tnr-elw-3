@@ -1,0 +1,25 @@
+.bg-olive {
+    background-color: rgb(30, 49, 45);
+}
+
+.bg-dolive {
+    background-color: rgb(15, 22, 21);
+}
+
+.bg-mint {
+    background-color: rgb(12, 85, 67);
+}
+
+.bg-te-mint {
+    background-color:rgb(12, 80, 57);
+}
+
+.bg-dblue {
+    background-color: rgb(28, 82, 70);
+}
+
+.upc {
+	text-transform: uppercase;
+}
+
+
